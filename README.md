@@ -1,3 +1,10 @@
+7.9.2021 
+Clone from sourceforge.net
+While waiting for the version 3.6, perhaps this is the last version release from ProcessMaker for this version.
+ProcessMaker version 4 open source version is slow on my testing and is not recommended by upstream for production workloads, unlike version 3.
+So let us stay for version 3 as this is the most stable version of ProcessMaker.
+
+
 Release Notes: ProcessMaker 3.5.7
 
 Release Date: December 21st, 2020
